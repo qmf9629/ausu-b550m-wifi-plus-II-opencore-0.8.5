@@ -1,6 +1,7 @@
 # ausu-b550m-wifi-plus-II-opencore-0.8.5
 
 | CPU  | AMD 5600G        |
+| ---- | ---------------- |
 | GPU  | AMD RX5600XT     |
 | 内存 | 光威 16G 3200 x2 |
 | 硬盘 | 移速 美洲豹 1T   |
